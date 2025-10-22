@@ -32,4 +32,4 @@ Features
 ✅ Subtract two numbers 
 ✅ Multiply two numbers 
 ✅ Divide two numbers (with zero-division check) 
-✅ Interactive loop — runs until user chooses to exit
+✅ Interactive loop — runs until user chooses to exit 
